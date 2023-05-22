@@ -45,7 +45,7 @@ function App() {
 
         <div className=" hidden lg:flex space-x-5">
           <button className="font-medium">Sign In</button>
-          <button className="font-medium px-6 lg:px-0 py-2 border-primary text-primary border-2 rounded-full">
+          <button className="font-medium px-6 py-2 border-primary text-primary border-2 rounded-full">
             Sign Up
           </button>
         </div>
